@@ -1,0 +1,63 @@
+88a17f4,farah,19 minutes ago,script that extracts P90 sequences for ORF99
+703b6f8,Raphaël Ribes,30 minutes ago,clean for github
+68edfce,Raphaël Ribes,36 minutes ago,data
+f68b914,Raphaël Ribes,71 minutes ago,Should be the last update
+1c2666e,Raphaël Ribes,18 hours ago,~vcf: better graph for threshold quality for SNPs
+29920d5,Raphaël Ribes,7 days ago,~vizualise_var: fixed deletions
+4cb0322,Raphaël Ribes,7 days ago,~vizualise_var: now the sequences are correct
+ce3dbdf,Raphaël Ribes,7 days ago,~vizualise_var: now the sequences are correct
+b507553,Raphaël Ribes,10 days ago,~vizualise_var: support for reverse complement and combined sequences of snp and sv
+10b0ecb,Raphaël Ribes,10 days ago,~vizualise_var: now just put the orf ref seq not the whole genome
+5287ba8,Raphaël Ribes,11 days ago,~reads_boxplot: make image and stats
+b205bc2,Raphaël Ribes,12 days ago,~vizualise_var: added visualization of starting position
+3db446d,Raphaël Ribes,12 days ago,~vizualise_var: added visualization of var size
+544eac8,Raphaël Ribes,13 days ago,+vizualise_var: Alloxs vizualisation of ALL sv and snp
+927600d,Raphaël Ribes,13 days ago,~barplot_vcf: support for SNPs and better SV
+9e4cdb5,Raphaël Ribes,3 weeks ago,Actually python 3.12 not 3.13
+58e99c8,Raphaël Ribes,3 weeks ago,Added disclamer readme
+4c3edc4,Raphaël Ribes,3 weeks ago,Better bilan making and render the image
+440631e,Raphaël Ribes,3 weeks ago,Added support for snp
+95c2cdc,Raphaël Ribes,3 weeks ago,Fixed vcf.py + kept only the data we use
+588d39e,Raphaël Ribes,3 weeks ago,Requirements + update of README
+55aee23,Raphaël Ribes,3 weeks ago,Script that allows to export the mutation of an orf
+8956ed7,Raphaël Ribes,3 weeks ago,PCA
+d2b4eea,Raphaël Ribes,3 weeks ago,Makes a visualization of the mutation on the orfs
+a9b2280,Raphaël Ribes,3 weeks ago,SV Visualization + removed old images
+2f1aad9,Raphaël Ribes,3 weeks ago,More comments
+4eb6349,Raphaël Ribes,3 weeks ago,Added filter for quality
+f125a1d,Raphaël Ribes,3 weeks ago,Bilan has af and dv now
+8f285ef,Raphaël Ribes,3 weeks ago,Added 1.8 on the scatterplot
+a30b0a1,Raphaël Ribes,3 weeks ago,Barplots and images
+224d901,Raphaël Ribes,3 weeks ago,Reads boxplots + flagstats
+e59b702,Raphaël Ribes,3 weeks ago,More filters combinaisons
+14622ca,Raphaël Ribes,3 weeks ago,Better SV treating
+0d3e420,Raphaël Ribes,3 weeks ago,ORFs barplots
+23a5877,Raphaël Ribes,3 weeks ago,ORFs barplots
+f3aea70,Raphaël Ribes,3 weeks ago,data update
+97983d1,Raphaël Ribes,3 weeks ago,VCF makes the bilan (filtered of not)
+821857c,Raphaël Ribes,4 weeks ago,Better and auto boxplot
+ffeda37,Raphaël Ribes,4 weeks ago,P90 et P65 flagstat
+6cf9214,Raphaël Ribes,5 weeks ago,Update sur la data et images
+87480b3,Raphaël Ribes,5 weeks ago,Joli boxplots ... oui bon bah je sais c'est pas des barplots
+d5e10c1,Raphaël Ribes,5 weeks ago,C'est le bordel
+480b6cc,Raphaël Ribes,5 weeks ago,Better vcf bilan
+bed601b,Raphaël Ribes,5 weeks ago,Makes a bilan.json file
+d653b0b,Raphaël Ribes,5 weeks ago,Frenchification + stats sur les vcfs
+639bc3e,Raphaël Ribes,5 weeks ago,Analyse vcf P90
+da62661,Raphaël Ribes,5 weeks ago,Added a function to get the info from a sv
+2554551,Raphaël Ribes,5 weeks ago,Forgot to remove this
+53ec5f6,Raphaël Ribes,5 weeks ago,Rename P65. to P65- like everyone else
+f75d2a0,Raphaël Ribes,6 weeks ago,Added get_targeted_orfs() function and comments
+ae40b33,Raphaël Ribes,6 weeks ago,All VCF
+b0ac86c,Raphaël Ribes,6 weeks ago,Better vcf handling
+fb366bc,Raphaël Ribes,6 weeks ago,Plots now use qubits just before sequencing
+0319df5,Raphaël Ribes,6 weeks ago,Better readme and graphs
+15b1a5f,Raphaël Ribes,6 weeks ago,Got the right ref genome
+c65303d,Raphaël Ribes,6 weeks ago,Cleaner plot
+1235973,Raphaël Ribes,6 weeks ago,gitignore
+44d83cc,Raphaël Ribes,6 weeks ago,Removed old comments
+f5c8c9f,Raphaël Ribes,6 weeks ago,Concentrations plots
+5d90dd6,Raphaël Ribes,6 weeks ago,Get all the ORFs from CyHV3
+51f9934,Raphaël Ribes,6 weeks ago,Boxplot for pass reads
+b9d116d,Raphaël Ribes,7 weeks ago,Data + vcf to csv
+5d041e1,Ribes Raphael,7 weeks ago,Initial commit
