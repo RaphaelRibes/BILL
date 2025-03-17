@@ -1,17 +1,14 @@
 # Bioinformatic Leanring Lab (BILL) - 2025
 ## Introduction
-This is a repository for the Bioinformatic Leanring Lab (BILL) in 2025.
-
-
-**DO NOT SHARE THIS REPOSITORY WITH ANYONE OUTSIDE THE LAB. THIS IS NOT OUR DATA.**
-
-**IF YOU WANT TO ADD IT ON GITHUB, MAKE SURE TO NOT INCLUDE ANY DATA AND RESULTS. MENTION EVERYONE AS A CONTRIBUTOR TOO.**
+This is a display repository for the Bioinformatic Leanring Lab (BILL) in 2025.
 
 ## Members
 - Raphaël Ribes - Data analyses, code, writing
-- Farah Moukachar - Writing
+- Farah Moukachar - Writing, code
 - Lucas Boulet - Writing, bibliography
 - Aicha El Jai - Writing
+
+You can check the commit history in `log.csv`.
 
 ## Requirements
 
@@ -59,3 +56,16 @@ This is a repository for the Bioinformatic Leanring Lab (BILL) in 2025.
    ```bash
     pip install -r requirements.txt
     ```
+   
+## What is what
+
+- Figure 1: [concentrations.py](concentrations.py) with the boxplot() function
+- Figure 2: [concentrations.py](concentrations.py) with the concentration_on_260280() function
+- Figure 4: [reads_boxplot.py](reads_boxplot.py)
+- Figure 5: commented part at the end of [vcf.py](vcf.py)
+- Figure 6: [sv_visualization.py](sv_visualization.py) with the make_flat_plots() function
+- Figure 7: [barplot_vcf.py](barplot_vcf.py) with the print_sv() function
+- Figure 8 and 9: [PCA.py](PCA.py)
+- Figure 10 to 13: [vizualise_var.py](vizualise_var.py) with the plot_mutations() function from the AutoVar class
+
+If you need the gitlab working gitlab repo, ask me by mail: raphael.ribes@etu.umontpellier.fr
